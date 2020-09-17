@@ -1,7 +1,7 @@
 # dataStructures (linked list, tree, array etc)
 # for code src - etc
 
-DnaSpliciing - insert into linked list via simulated dna strands
+DnaSplicing - insert into linked list via simulated dna strands
 
 ecolicount  - basic array insert.update
 
